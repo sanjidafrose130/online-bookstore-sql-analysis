@@ -1,9 +1,3 @@
--- =============================================
--- Online Bookstore SQL Analysis
--- Database: Online_bookstore
--- Tool: MySQL Workbench
--- =============================================
-
 # Online Bookstore SQL Analysis
 
 ## Project Overview
@@ -50,7 +44,7 @@ Stock availability analysis
 - COUNT()
 - COALESCE()
 
-Author:
+## Author
 Sanjida Afrose
 
 
