@@ -1,3 +1,9 @@
+-- =============================================
+-- Online Bookstore SQL Analysis
+-- Database: Online_bookstore
+-- Tool: MySQL Workbench
+-- =============================================
+
 # Online Bookstore SQL Analysis
 
 ## Project Overview
@@ -5,14 +11,11 @@
 This project analyzes an online bookstore dataset using MySQL to explore
 sales performance, customer behavior, book inventory, genres, and revenue.
 
-The project was completed as a practical SQL portfolio project to apply
-SQL concepts to a real-world business scenario.
 
 ## Tools & Technologies
 
 - MySQL
 - MySQL Workbench
-- SQL
 
 ## Dataset
 
@@ -22,21 +25,13 @@ The dataset contains three main tables:
 - Customers
 - Orders
 
-## Business Questions
+## Key Insights
+Books generating the highest revenue
+total revenue generated from orders
+Customer purchasing behavior
+Order trends over time
+Stock availability analysis
 
-The analysis answers questions such as:
-
-- Which books belong to the Fiction genre?
-- What are the most expensive books?
-- Which customers are from Canada?
-- What is the total stock available?
-- What is the total revenue generated?
-- Which genres have the highest book sales?
-- Which customers have placed at least two orders?
-- Which books are ordered most frequently?
-- How many books were sold by each author?
-- Which books have low stock but high sales?
-- What is the remaining stock after fulfilling orders?
 
 ## SQL Concepts Used
 
@@ -55,21 +50,7 @@ The analysis answers questions such as:
 - COUNT()
 - COALESCE()
 
-## Key Analysis Areas
-
-### Sales Analysis
-Analyzed total books sold by genre and author and identified frequently
-ordered books.
-
-### Customer Analysis
-Explored customer locations and ordering behavior.
-
-### Inventory Analysis
-Calculated remaining stock and identified books with relatively low
-stock and high sales.
-
-### Revenue Analysis
-Calculated total revenue generated from orders.
-
+Author:
+Sanjida Afrose
 
 
